@@ -1,0 +1,13 @@
+.explanation {
+  margin: auto;
+  border: 1px solid black;
+  width: 600px;
+}
+
+.state-value {
+  font-weight: bold;
+}
+
+.dispatch-button {
+  text-align: center;
+}
